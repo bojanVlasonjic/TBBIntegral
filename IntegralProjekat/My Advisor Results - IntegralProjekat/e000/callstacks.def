@@ -1,0 +1,4 @@
+# callstacks file version: 2
+#    rowid |    parent |       rva | loop | system |                                function | binary | instance rva
+         1 |        -1 |     30666 |    0 |      0 |                          mainCRTStartup | C:\Users\bojan\Desktop\SIIT\IV semestar\Paralelno programiranje\IntegralProjekat\Release\IntegralProjekat.exe | 30666
+         2 |        -1 |         0 |    0 |      0 |                [Unknown stack frame(s)] | n/a | 0

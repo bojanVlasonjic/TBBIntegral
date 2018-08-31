@@ -1,0 +1,4 @@
+﻿  main.cpp
+  parallel.cpp
+  serial.cpp
+LINK : fatal error LNK1104: cannot open file 'tbb_debug.lib'
